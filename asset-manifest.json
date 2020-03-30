@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mooonsters/static/css/main.384f3259.chunk.css",
-    "main.js": "/mooonsters/static/js/main.f2edfa2c.chunk.js",
-    "main.js.map": "/mooonsters/static/js/main.f2edfa2c.chunk.js.map",
-    "runtime-main.js": "/mooonsters/static/js/runtime-main.d40e550d.js",
-    "runtime-main.js.map": "/mooonsters/static/js/runtime-main.d40e550d.js.map",
-    "static/js/2.6931aef1.chunk.js": "/mooonsters/static/js/2.6931aef1.chunk.js",
-    "static/js/2.6931aef1.chunk.js.map": "/mooonsters/static/js/2.6931aef1.chunk.js.map",
-    "index.html": "/mooonsters/index.html",
-    "precache-manifest.c9ef675b646ac8583acb5c5c8cfe631a.js": "/mooonsters/precache-manifest.c9ef675b646ac8583acb5c5c8cfe631a.js",
-    "service-worker.js": "/mooonsters/service-worker.js",
-    "static/css/main.384f3259.chunk.css.map": "/mooonsters/static/css/main.384f3259.chunk.css.map",
-    "static/js/2.6931aef1.chunk.js.LICENSE.txt": "/mooonsters/static/js/2.6931aef1.chunk.js.LICENSE.txt"
+    "main.css": "/mohamadrezahedayat/mooonsters/static/css/main.384f3259.chunk.css",
+    "main.js": "/mohamadrezahedayat/mooonsters/static/js/main.3ca9f0f8.chunk.js",
+    "main.js.map": "/mohamadrezahedayat/mooonsters/static/js/main.3ca9f0f8.chunk.js.map",
+    "runtime-main.js": "/mohamadrezahedayat/mooonsters/static/js/runtime-main.38139f4b.js",
+    "runtime-main.js.map": "/mohamadrezahedayat/mooonsters/static/js/runtime-main.38139f4b.js.map",
+    "static/js/2.6931aef1.chunk.js": "/mohamadrezahedayat/mooonsters/static/js/2.6931aef1.chunk.js",
+    "static/js/2.6931aef1.chunk.js.map": "/mohamadrezahedayat/mooonsters/static/js/2.6931aef1.chunk.js.map",
+    "index.html": "/mohamadrezahedayat/mooonsters/index.html",
+    "precache-manifest.41d1fc7f39d1e7ffdec5c6c4b6bcc29b.js": "/mohamadrezahedayat/mooonsters/precache-manifest.41d1fc7f39d1e7ffdec5c6c4b6bcc29b.js",
+    "service-worker.js": "/mohamadrezahedayat/mooonsters/service-worker.js",
+    "static/css/main.384f3259.chunk.css.map": "/mohamadrezahedayat/mooonsters/static/css/main.384f3259.chunk.css.map",
+    "static/js/2.6931aef1.chunk.js.LICENSE.txt": "/mohamadrezahedayat/mooonsters/static/js/2.6931aef1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d40e550d.js",
+    "static/js/runtime-main.38139f4b.js",
     "static/js/2.6931aef1.chunk.js",
     "static/css/main.384f3259.chunk.css",
-    "static/js/main.f2edfa2c.chunk.js"
+    "static/js/main.3ca9f0f8.chunk.js"
   ]
 }
